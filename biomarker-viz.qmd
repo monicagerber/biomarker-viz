@@ -1,0 +1,122 @@
+---
+title: "NCI Biomarker Data Explorer"
+author: "Fred Hutch Data Science Lab"
+format: dashboard
+server: shiny
+---
+
+```{r}
+#| context: setup
+library(tidyverse)
+library(purrr)
+library(glue)
+library(here)
+library(ggplot2)
+
+biomarker_data <- read_csv(
+  here("data", "fhcc_trial_biomarkers_tidy.csv")
+) |>
+  rename(biomarker_name = name)
+
+disease_type <- read_rds(
+  here("data", "fhcc_trial_disease_top.rds")
+) |>
+  rename(disease = name)
+
+fhcc_trials_nci <- fhcc_trials |>
+  filter(!is.na(nci_trial_id))
+
+disease_main <- disease_type |>
+  filter(type == "maintype") |>
+  filter(!str_detect(disease, "Other"),
+         disease != "Solid Tumor")
+
+biomarker_disease <- biomarker_data |>
+  left_join(disease_main, by = c("trial" = "nci_id")) 
+```
+
+# {.sidebar}
+
+```{r}
+selectInput(
+  'disease', 'Disease Type', 
+  sort(unique(biomarker_disease$disease))
+  )
+```
+
+# Plot
+
+```{r}
+plotOutput('barPlot')
+```
+
+# Data
+
+```{r}
+DT::DTOutput('trialTable')
+```
+
+
+```{r}
+#| context: server
+
+dataset <- reactive({
+  biomarker_disease |> 
+    filter(disease == input$disease)
+  
+})
+
+output$barPlot <- renderPlot({
+
+  plot_df <- dataset() |>
+    filter(eligibility_criterion == "inclusion") |>
+    distinct(trial, biomarker_name) |>
+    group_by(biomarker_name) |>
+    summarise(biomarker_count = n()) |>
+    ungroup()
+
+  p <- ggplot(
+    plot_df,
+    aes(x = reorder(biomarker_name, biomarker_count), y = biomarker_count)
+  ) +
+    geom_col(fill = "#0A799A") +
+    scale_y_continuous(breaks = scales::breaks_pretty()) +
+    coord_flip() +
+    theme_bw() +
+    theme(legend.position = "none",
+          plot.title.position = "plot",
+          plot.title = ggtext::element_textbox_simple()) +
+    labs(
+      x = "Biomarker name",
+      y = "Count of NCI-sponsored trials",
+      title = glue("Count of Fred Hutch NCI-Sponsored Trials \n for {input$disease} with a Molecular Biomarker Used in Inclusion Criteria, by Biomarker Name")
+    )
+  p
+})
+
+output$trialTable <- DT::renderDT(
+  
+  dataset() |>
+    filter(eligibility_criterion == "inclusion") |>
+    distinct(trial, brief_title, biomarker_name, code) |>
+    select(
+      `NCI ID` = trial,
+      Title = brief_title,
+      Biomarker = biomarker_name,
+      `Concept ID` = code
+    ),
+  filter = "top"
+  
+)
+
+```
+
+
+# Background
+
+The National Cancer Institute (NCI) maintains a database of [NCI-sponsored clinical trials](https://www.cancer.gov/research/participate/clinical-trials-search) and their associated metadata. We used the [NCI API](https://clinicaltrialsapi.cancer.gov/doc) to pull biomarker and disease concepts for eachclinical trial. Each biomarker and disease concept has a concept ID and is part of a standardized terminology in the NCI thesaurus ([CTRP Molecular Genetic Biomarker Terminology](https://nciterms.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&version=24.03d&code=C142800&ns=ncit)). The [clinicaltrials.gov site also has an API](https://clinicaltrials.gov/data-api/about-api), but it does not include biomarker concepts.
+
+## Source Data
+
+Data were pulled from the NCI API on December 12, 2024. There were 1876 trials in the system that listed Fred Hutch as a trial site. Of these, `r length(unique(biomarker_data$trial))` had a biomarker associated with the trial inclusion/exclusion criteria. There are `r length(unique(biomarker_data$biomarker_name))` distinct biomarkers associated with these trials.
+

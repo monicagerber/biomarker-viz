@@ -1,0 +1,1320 @@
+trial,name,eligibility_criterion,code
+NCI-2023-02688,Estrogen Receptor Negative,inclusion,C15493
+NCI-2023-02688,Progesterone Receptor Negative,inclusion,C15497
+NCI-2023-02688,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2019-01460,TP53 Negative,inclusion,C156049
+NCI-2022-07859,Estrogen Receptor Negative,inclusion,C15493
+NCI-2022-07859,Progesterone Receptor Negative,inclusion,C15497
+NCI-2022-07859,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2018-02611,Neoplastic Plasma Cells 10-59 Percent of Bone Marrow Nucleated Cells,inclusion,C156753
+NCI-2021-06619,Ki-67 Positive Cells 3-55 Percent,inclusion,C183569
+NCI-2021-08925,CDKN2A-p16 Positive,inclusion,C129258
+NCI-2022-09254,c-MET Gene Amplification,inclusion,C43532
+NCI-2018-01738,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-01738,Prostate-Specific Antigen,inclusion,C17525
+NCI-2018-01738,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2020-02686,PSA Failure,inclusion,C93229
+NCI-2017-01017,EGFR Exon 20 Insertion Mutation,inclusion,C125605
+NCI-2021-09164,PSA Failure,inclusion,C93229
+NCI-2021-09164,PSA Level Less than or Equal to Ten,inclusion,C138945
+NCI-2021-09164,Testosterone Greater than or Equal to 100 ng/dL,inclusion,C153521
+NCI-2023-02356,Germline BRCA1 Gene Mutation,inclusion,C150629
+NCI-2023-02356,Germline BRCA2 Gene Mutation,inclusion,C150630
+NCI-2022-04353,HER2/Neu Low Expression,inclusion,C156764
+NCI-2020-00768,Lymphoblasts 5 Percent or More of Bone Marrow Nucleated Cells,inclusion,C142103
+NCI-2021-01380,BCL6 Positive,inclusion,C132011
+NCI-2021-01380,CXCL13 Positive,inclusion,C179315
+NCI-2021-01380,HTLV-1 Positive,exclusion,C142127
+NCI-2021-01380,HTLV-2 Positive,exclusion,C173456
+NCI-2021-01380,ICOS Positive,inclusion,C179338
+NCI-2021-01380,MME Positive,inclusion,C162087
+NCI-2021-01380,PD1 Positive,inclusion,C179393
+NCI-2021-01380,TNFRSF8 Negative,inclusion,C178527
+NCI-2022-10255,CDK4 Gene Amplification,inclusion,C131786
+NCI-2022-10255,MDM2 Positive,inclusion,C188288
+NCI-2023-02479,H3 K27M Mutation,inclusion,C129310
+NCI-2023-00614,Estrogen Receptor Negative,inclusion,C15493
+NCI-2023-00614,Germline BRCA1 Gene Mutation,exclusion,C150629
+NCI-2023-00614,Germline BRCA2 Gene Mutation,exclusion,C150630
+NCI-2023-00614,Progesterone Receptor Negative,inclusion,C15497
+NCI-2023-00614,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2022-10269,Estrogen Receptor Positive,inclusion,C15492
+NCI-2022-10269,Progesterone Receptor Positive,inclusion,C15496
+NCI-2020-01859,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2020-01859,NTRK Fusion Gene Positive,inclusion,C183255
+NCI-2020-01859,PD-L1,inclusion,C96024
+NCI-2020-01859,RET Fusion Positive,inclusion,C131069
+NCI-2020-01859,ROS1 Fusion Positive,inclusion,C131071
+NCI-2021-13862,Deleterious GATA2 Gene Mutation,inclusion,C173433
+NCI-2021-13862,SAMD9 Gene Mutation,inclusion,C168743
+NCI-2021-13862,SAMD9L Gene Mutation,inclusion,C168744
+NCI-2019-04788,IDH Family Wildtype,inclusion,C136567
+NCI-2022-06406,Ki-67 Positive Cells 20 Percent or Less,inclusion,C170402
+NCI-2018-00676,PD-L1 Positive,inclusion,C128554
+NCI-2023-03766,Estrogen Receptor Positive,inclusion,C15492
+NCI-2019-01032,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2021-11881,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2021-11881,Loss of EPCAM Expression,inclusion,C163014
+NCI-2021-11881,Loss of MLH1 Expression,inclusion,C163016
+NCI-2021-11881,Loss of MSH2 Expression,inclusion,C162515
+NCI-2021-11881,Loss of MSH6 Expression,inclusion,C163015
+NCI-2021-11881,Loss of PMS2 Expression,inclusion,C163012
+NCI-2022-05419,Activating ALK Gene Mutation,inclusion,C146722
+NCI-2020-02152,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2020-02152,PRAME Positive,inclusion,C133814
+NCI-2023-02463,Estrogen Receptor Positive,inclusion,C15492
+NCI-2023-05093,KIT Exon 11 Mutation,inclusion,C104668
+NCI-2023-05093,KIT Exon 17 Mutation,inclusion,C116396
+NCI-2023-05093,KIT Exon 18 Mutation,inclusion,C153251
+NCI-2024-03566,NECTIN4 Positive,inclusion,C134486
+NCI-2020-10760,TP53 NP_000537.3:p.Y220C,inclusion,C146890
+NCI-2024-02086,CD20 Positive,inclusion,C128631
+NCI-2018-00732,MYD88 NP_002459.2:p.L265P,inclusion,C128178
+NCI-2022-11125,Activating RAF Family Alteration Positive,inclusion,C192207
+NCI-2020-04069,EGFR Activating Mutation,inclusion,C92172
+NCI-2022-04663,CCNE1 Gene Amplification,inclusion,C36682
+NCI-2022-04663,Estrogen Receptor Positive,inclusion,C15492
+NCI-2022-02257,PDGFRA NP_006197.1:p.D842V,exclusion,C107570
+NCI-2022-02257,Succinate Dehydrogenase Deficiency,exclusion,C187258
+NCI-2020-00424,Castration Levels of Testosterone,inclusion,C129259
+NCI-2020-00424,PSA Decline Greater than or Equal to 50 Percent,inclusion,C165509
+NCI-2020-00424,PSA Level Greater than or Equal to One,inclusion,C136574
+NCI-2020-00424,Testosterone Less than or Equal to 50 ng/dL,inclusion,C161836
+NCI-2023-06835,FLT3 Gene Mutation Negative,inclusion,C148082
+NCI-2021-09770,Epstein-Barr Virus Positive,inclusion,C129454
+NCI-2021-02648,NF1 Positive,exclusion,C150713
+NCI-2023-08584,HER2/Neu Expression by Immunohistochemistry 1+,inclusion,C147525
+NCI-2023-08584,HER2/Neu Expression by Immunohistochemistry 2+,inclusion,C147526
+NCI-2023-08584,HER2/Neu Expression by Immunohistochemistry 3+,inclusion,C147527
+NCI-2020-13842,CD20 Positive,inclusion,C128631
+NCI-2022-10316,RET Gene Alteration Positive,inclusion,C170432
+NCI-2022-05581,Myeloblasts 10 Percent or More of Peripheral Blood White Cells,exclusion,C165728
+NCI-2022-07236,t(11;14) Positive,inclusion,C142136
+NCI-2022-09083,Interleukin-3 Receptor Subunit Alpha Positive,inclusion,C132655
+NCI-2020-00134,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2023-10663,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2022-02546,IL2RG Gene Mutation,inclusion,C187698
+NCI-2022-02546,JAK3 Gene Mutation,inclusion,C136647
+NCI-2022-02546,RAG1 Gene Mutation,inclusion,C187699
+NCI-2022-02546,RAG2 Gene Mutation,inclusion,C187700
+NCI-2019-01331,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2017-00648,NTRK1 Gene Rearrangement,inclusion,C46006
+NCI-2017-00648,NTRK2 Gene Rearrangement,inclusion,C131321
+NCI-2017-00648,NTRK3 Gene Rearrangement,inclusion,C131325
+NCI-2017-02269,BTK Gene Mutation,inclusion,C132254
+NCI-2017-02269,CD19 Positive,inclusion,C129255
+NCI-2017-02269,PLCG2 Gene Mutation,inclusion,C153396
+NCI-2021-06077,Castration Levels of Testosterone,inclusion,C129259
+NCI-2021-06077,PSA Level Greater than or Equal to One,inclusion,C136574
+NCI-2023-06119,EGFR Positive,inclusion,C134501
+NCI-2022-09176,MYCL Gene Amplification,inclusion,C36675
+NCI-2022-09176,MYCL Messenger RNA Expression Measurement,inclusion,C190768
+NCI-2022-09176,MYCN Messenger RNA Expression Measurement,inclusion,C79098
+NCI-2022-09176,NMYC Gene Amplification,inclusion,C36673
+NCI-2020-06149,Estrogen Receptor Negative,inclusion,C15493
+NCI-2020-06149,Progesterone Receptor Negative,inclusion,C15497
+NCI-2020-06149,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2023-06933,MLL Gene Rearrangement,inclusion,C122623
+NCI-2023-06933,NPM1 Gene Mutation,inclusion,C82429
+NCI-2024-03665,NRAS Gene Mutation,inclusion,C41381
+NCI-2020-04226,Minimal Residual Disease Negativity,inclusion,C124428
+NCI-2021-00601,Circulating Tumor DNA,inclusion,C113243
+NCI-2021-00601,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2021-09181,Castration Levels of Testosterone,inclusion,C129259
+NCI-2020-01007,ARID1A Gene Mutation,inclusion,C157462
+NCI-2020-01007,BAP1 Negative,inclusion,C179308
+NCI-2023-03995,EGFR Gene Amplification,inclusion,C36649
+NCI-2023-03995,FGFR1 Gene Amplification,inclusion,C36650
+NCI-2023-03995,FGFR2 Gene Amplification,inclusion,C36651
+NCI-2023-03995,FGFR3 Gene Amplification,inclusion,C129621
+NCI-2023-03995,FGFR4 Gene Amplification,inclusion,C167150
+NCI-2023-02512,MET Exon 14 Skipping Mutation,inclusion,C131179
+NCI-2023-02512,MET Overexpression Positive,inclusion,C148403
+NCI-2023-02512,c-MET Gene Amplification,inclusion,C43532
+NCI-2021-07441,Philadelphia Chromosome Negative,inclusion,C128844
+NCI-2021-06208,Estrogen Receptor Positive,inclusion,C15492
+NCI-2017-00133,Castration Levels of Testosterone,inclusion,C129259
+NCI-2024-02290,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2024-02290,Hypermutation Phenotype,exclusion,C140413
+NCI-2024-02290,Mismatch Repair Protein Deficiency,exclusion,C137827
+NCI-2024-02290,POLE Gene Mutation,exclusion,C131797
+NCI-2022-05319,ERBB2 Gene Amplification,inclusion,C36638
+NCI-2022-05319,ERBB2 Gene Rearrangement,inclusion,C186851
+NCI-2022-05319,ERBB2 Overexpression,inclusion,C150634
+NCI-2022-05319,NRG1 Gene Rearrangement,inclusion,C189907
+NCI-2022-05319,Non-synonymous ERBB2 Gene Mutation,inclusion,C189905
+NCI-2024-01620,Mesothelin Positive,inclusion,C128841
+NCI-2019-03155,RET Gene Mutation,inclusion,C43293
+NCI-2024-02356,HLA-A1101 Positive Cells Present,inclusion,C140184
+NCI-2024-02356,Hepatitis B Virus Core Antibody Positive,exclusion,C148282
+NCI-2024-02356,Hepatitis B Virus HBsAg Surface Protein Antigen,exclusion,C62786
+NCI-2024-02356,KRAS NP_004976.2:p.G12V,inclusion,C98391
+NCI-2022-00073,CD33 Positive,inclusion,C132228
+NCI-2024-03040,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2023-03273,BRAF Fusion Positive,inclusion,C147077
+NCI-2023-03273,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2023-03273,NF1 Positive,exclusion,C150713
+NCI-2018-01752,Blasts 10-19 Percent of Bone Marrow Nucleated Cells,inclusion,C41401
+NCI-2018-01752,Blasts 2-4 Percent of Peripheral Blood White Cells,inclusion,C155288
+NCI-2018-01752,Blasts 5-9 Percent of Bone Marrow Nucleated Cells,inclusion,C155287
+NCI-2018-01752,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2019-05482,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2019-05482,HLA-A*0203 Positive Cells Present,inclusion,C199571
+NCI-2019-05482,HLA-A*0205 Positive Cells Present,exclusion,C131443
+NCI-2019-05482,HLA-A*0206 Positive Cells Present,inclusion,C131444
+NCI-2019-05482,MAGEA4 Positive,inclusion,C147078
+NCI-2022-09084,FGFR3 Gene Fusion Positive,inclusion,C148097
+NCI-2020-07859,Germline BRCA1 Gene Mutation,exclusion,C150629
+NCI-2020-07859,Germline BRCA2 Gene Mutation,exclusion,C150630
+NCI-2023-04193,DLL3 Positive,inclusion,C140465
+NCI-2023-04439,AXIN1 Gene Mutation,inclusion,C167112
+NCI-2023-04439,CTNNB1 Gene Mutation,inclusion,C36659
+NCI-2023-09812,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2023-06610,HER2/Neu Expression by Immunohistochemistry 1+,inclusion,C147525
+NCI-2023-06610,HER2/Neu Expression by Immunohistochemistry 2+,inclusion,C147526
+NCI-2023-06610,HER2/Neu Expression by Immunohistochemistry 3+,inclusion,C147527
+NCI-2024-05880,TP53 Gene Mutation Negative,inclusion,C148092
+NCI-2019-01043,SARS Coronavirus 2 Positive,inclusion,C171647
+NCI-2021-01765,ALK Negative,inclusion,C133707
+NCI-2021-01765,BRAF Negative,inclusion,C142836
+NCI-2021-01765,EGFR Negative,inclusion,C150501
+NCI-2021-01765,ROS1 Negative,inclusion,C153498
+NCI-2020-01540,CD33 Positive,inclusion,C132228
+NCI-2023-00103,Estrogen Receptor Negative,inclusion,C15493
+NCI-2023-00103,High Tumor Mutation Burden,inclusion,C156025
+NCI-2023-00103,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2023-00103,Mismatch Repair Protein Deficiency,inclusion,C137827
+NCI-2023-00103,Progesterone Receptor Negative,inclusion,C15497
+NCI-2023-00103,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2024-01328,Deleterious PTEN Gene Mutation,exclusion,C146675
+NCI-2024-01328,Estrogen Receptor Positive,inclusion,C15492
+NCI-2024-01328,KRAS Gene Mutation Negative,inclusion,C142879
+NCI-2024-01328,PIK3CA NP_006209.2:p.H1047R,inclusion,C98484
+NCI-2024-01328,PTEN Negative,exclusion,C154154
+NCI-2024-01328,Progesterone Receptor Positive,inclusion,C15496
+NCI-2022-11124,CLDN18.2 Positive,inclusion,C153150
+NCI-2022-09244,Activating Non-V600 BRAF Mutation,inclusion,C160435
+NCI-2022-09244,Inactivating BRAF Gene Mutation,inclusion,C156046
+NCI-2020-01100,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2021-03637,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2020-04584,Elevated Alpha-Fetoprotein,exclusion,C136630
+NCI-2020-04584,Elevated Choriogonadotropin Subunit Beta,exclusion,C183568
+NCI-2017-01156,Human Herpesvirus 1 Positive,inclusion,C141249
+NCI-2017-01156,Human Herpesvirus 2 Positive,inclusion,C188484
+NCI-2020-06086,Estrogen Receptor Positive,inclusion,C15492
+NCI-2020-06086,HER2/Neu Low Expression,inclusion,C156764
+NCI-2020-06086,Ki-67 Positive Cells Greater than or Equal to 30 Percent,inclusion,C200256
+NCI-2020-06086,Progesterone Receptor Positive,inclusion,C15496
+NCI-2023-05258,ADAMTS13 Activity Less than 10 Percent,exclusion,C200445
+NCI-2024-04601,Castration Levels of Testosterone,inclusion,C129259
+NCI-2020-11363,HER2/Neu Expression by Immunohistochemistry 1+,inclusion,C147525
+NCI-2020-11363,HER2/Neu Expression by Immunohistochemistry 2+,inclusion,C147526
+NCI-2020-11363,HER2/Neu Expression by Immunohistochemistry 3+,inclusion,C147527
+NCI-2022-05514,Loss of Chromosome 17p,inclusion,C36499
+NCI-2022-05514,Unmutated Immunoglobulin Heavy Chain Variable Region Gene,inclusion,C97146
+NCI-2024-03669,Estrogen Receptor Positive,inclusion,C15492
+NCI-2024-03669,Progesterone Receptor Positive,inclusion,C15496
+NCI-2024-03669,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2016-00632,IDH1 Gene Mutation,inclusion,C118389
+NCI-2023-11025,CD19 Positive,inclusion,C129255
+NCI-2023-02950,KRAS NP_004976.2:p.G12D,inclusion,C98369
+NCI-2023-08892,Estrogen Receptor Negative,inclusion,C15493
+NCI-2023-08892,Progesterone Receptor Negative,inclusion,C15497
+NCI-2023-08892,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2024-03476,TNFRSF8 Positive,inclusion,C129257
+NCI-2016-01910,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2016-01910,Microsatellite Stable,inclusion,C131459
+NCI-2016-01910,POLE Gene Mutation,inclusion,C131797
+NCI-2021-09253,Estrogen Receptor Positive,inclusion,C15492
+NCI-2020-11637,CBL Gene Mutation,inclusion,C136645
+NCI-2020-11637,NRAS Gene Mutation,inclusion,C41381
+NCI-2019-03188,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2021-11994,Castration Levels of Testosterone,inclusion,C129259
+NCI-2021-12314,GPC3 Positive,inclusion,C134492
+NCI-2022-01989,BCR/ABL1 Fusion Protein p210,inclusion,C99309
+NCI-2023-01819,PSA Level Greater than or Equal to Twenty,inclusion,C137702
+NCI-2023-01819,Testosterone Level Greater than 50ng/dL Below Normal Range,exclusion,C199464
+NCI-2023-01998,Activating PTPN11 Mutation,inclusion,C139794
+NCI-2023-01998,EGFR Activating Mutation,inclusion,C92172
+NCI-2023-01998,Inactivating NF1 Gene Mutation,inclusion,C36685
+NCI-2023-01998,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2023-01998,SOS1 Gene Mutation,inclusion,C180788
+NCI-2023-03212,IDH Family Wildtype,inclusion,C136567
+NCI-2023-00867,MSI-H Negative,inclusion,C157521
+NCI-2023-00867,Mismatch Repair Protein Proficient,inclusion,C131458
+NCI-2023-08847,MAGEA4 Positive,inclusion,C147078
+NCI-2021-00532,CD20 Positive,inclusion,C128631
+NCI-2023-09318,Interleukin-3 Receptor Subunit Alpha Positive,inclusion,C132655
+NCI-2024-04787,HER2/Neu Low Expression,inclusion,C156764
+NCI-2021-13607,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2021-13607,Mismatch Repair Protein Deficiency,inclusion,C137827
+NCI-2019-00146,Interleukin-3 Receptor Subunit Alpha Positive,inclusion,C132655
+NCI-2019-00146,t(15;17),exclusion,C128656
+NCI-2021-14390,Estrogen Receptor Positive,inclusion,C15492
+NCI-2021-14390,Progesterone Receptor Positive,inclusion,C15496
+NCI-2019-07437,PSA Level 0.2 to Ten,inclusion,C199377
+NCI-2019-07437,Testosterone Greater than 120 ng/dL,inclusion,C199378
+NCI-2018-03723,BCR-JAK2 Fusion Protein Positive,inclusion,C37888
+NCI-2018-03723,CHIC2 Gene Deletion,inclusion,C175683
+NCI-2018-03723,ETV6-JAK2 Fusion Protein Positive,inclusion,C37886
+NCI-2018-03723,JAK2 Gene Rearrangement,inclusion,C157572
+NCI-2018-03723,PCM1-JAK2 Fusion Protein Positive,inclusion,C157571
+NCI-2018-03723,PDGFRB Gene Rearrangement,inclusion,C84272
+NCI-2021-04129,Loss of Serine-Protein Kinase ATM Expression,inclusion,C173432
+NCI-2020-06786,TP53 Positive,exclusion,C146668
+NCI-2024-07203,Mesothelin Positive,inclusion,C128841
+NCI-2024-08912,KRAS NP_004976.2:p.G12D,inclusion,C98369
+NCI-2023-01290,KRAS Activating Mutation,inclusion,C118391
+NCI-2018-00060,Activating EGFR Gene Mutation Negative,inclusion,C134494
+NCI-2018-00060,EGFR Exon 19 Deletion Mutation,inclusion,C126892
+NCI-2018-00060,EGFR NP_005219.2:p.G719X,inclusion,C107154
+NCI-2018-00060,EGFR NP_005219.2:p.L858R,inclusion,C98515
+NCI-2018-00060,EGFR NP_005219.2:p.L861Q,inclusion,C98497
+NCI-2018-00060,EGFR-TKI Sensitizing Mutation,inclusion,C96861
+NCI-2019-07695,Microsatellite Stable,inclusion,C131459
+NCI-2022-02260,ERBB2 Overexpression,inclusion,C150634
+NCI-2023-08921,Castration Levels of Testosterone,inclusion,C129259
+NCI-2023-08921,PSMA SUVmean Less than 10,inclusion,C210649
+NCI-2023-05598,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2023-05598,Myeloblasts Under 10 Percent of Bone Marrow Nucleated Cells,inclusion,C36219
+NCI-2020-02615,Elevated Serum CA-125 Tumor Antigen,inclusion,C142104
+NCI-2019-07697,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2018-01613,CD33 Positive,inclusion,C132228
+NCI-2012-01696,TNFRSF8 Positive,inclusion,C129257
+NCI-2023-05597,Castration Levels of Testosterone,inclusion,C129259
+NCI-2023-05597,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2023-04887,Castration Levels of Testosterone,inclusion,C129259
+NCI-2022-07428,EGFR Gene Mutation Negative,inclusion,C148091
+NCI-2022-07428,PD-L1 Expression Greater than or Equal to 1 Percent,inclusion,C188768
+NCI-2022-07428,RET/PTC Rearrangement,exclusion,C46005
+NCI-2022-07428,ROS1 Gene Rearrangement Negative,inclusion,C147054
+NCI-2022-05225,CD19 Positive,inclusion,C129255
+NCI-2022-05225,Philadelphia Chromosome Negative,inclusion,C128844
+NCI-2022-05221,CD19 Positive,inclusion,C129255
+NCI-2021-07474,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2019-07640,Blasts More than 10 Percent of Bone Marrow Nucleated Cells,inclusion,C150457
+NCI-2017-02205,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2023-04071,SARS Coronavirus 2 Negative,inclusion,C176688
+NCI-2023-10316,Castration Levels of Testosterone,inclusion,C129259
+NCI-2023-10316,PSA Level Greater than or Equal to One,inclusion,C136574
+NCI-2023-10316,STEAP1 Positive,inclusion,C139793
+NCI-2020-00238,CD19 Positive,inclusion,C129255
+NCI-2022-02422,GPC3 Positive,inclusion,C134492
+NCI-2024-08462,Estrogen Receptor Positive,inclusion,C15492
+NCI-2023-03572,Interleukin-3 Receptor Subunit Alpha Positive,inclusion,C132655
+NCI-2022-02316,CD19 Positive,inclusion,C129255
+NCI-2021-09818,CD33 Positive,inclusion,C132228
+NCI-2018-03727,EGFR Positive,inclusion,C134501
+NCI-2023-06287,KRAS NP_004976.2:p.G12V,inclusion,C98391
+NCI-2023-05595,CDK4 Gene Amplification,inclusion,C131786
+NCI-2023-05595,MDM2 Gene Amplification,inclusion,C36681
+NCI-2021-10199,Estrogen Receptor Positive,inclusion,C15492
+NCI-2021-10199,Progesterone Receptor Positive,inclusion,C15496
+NCI-2021-12428,Estrogen Receptor Positive,inclusion,C15492
+NCI-2024-08641,Histone H3 Gene Mutation,exclusion,C154306
+NCI-2024-08641,Unmethylated MGMT Promoter,inclusion,C132892
+NCI-2024-05612,BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.T315I,inclusion,C123846
+NCI-2024-01326,Human Papillomavirus-16 Positive,inclusion,C129455
+NCI-2024-01326,Human Papillomavirus-18 Positive,inclusion,C131711
+NCI-2024-01326,PD-L1 Positive,inclusion,C128554
+NCI-2024-07430,Activating EGFR Gene Mutation Negative,inclusion,C134494
+NCI-2024-07430,PD-L1 Tumor Proportion Score Less than 49,inclusion,C210426
+NCI-2024-07430,ROS1 Gene Rearrangement Negative,inclusion,C147054
+NCI-2024-07237,CD20 Positive,inclusion,C128631
+NCI-2024-04299,BCR/ABL1 Fusion Negative,inclusion,C128834
+NCI-2024-04299,CBL Gene Mutation,inclusion,C136645
+NCI-2024-04299,NRAS Gene Mutation,inclusion,C41381
+NCI-2024-04299,RRAS Gene Mutation,inclusion,C180784
+NCI-2024-04299,RRAS2 Gene Mutation,inclusion,C206196
+NCI-2024-08463,Castration Levels of Testosterone,inclusion,C129259
+NCI-2024-08463,GRPR Positive,inclusion,C190742
+NCI-2024-08463,PSMA Positive,inclusion,C153464
+NCI-2024-08463,Somatostatin Receptor 2 Positive,inclusion,C131558
+NCI-2022-08059,PSMA Positive,inclusion,C153464
+NCI-2024-08464,Estrogen Receptor Negative,inclusion,C15493
+NCI-2024-08464,Estrogen Receptor Positive,inclusion,C15492
+NCI-2024-08464,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2024-08464,Progesterone Receptor Negative,inclusion,C15497
+NCI-2024-08464,Progesterone Receptor Positive,inclusion,C15496
+NCI-2024-08464,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2021-09742,MUC1* Positive Cells Present,inclusion,C158467
+NCI-2024-08021,PSA Doubling Time Less than or Equal to 12 Months,inclusion,C172352
+NCI-2024-08021,PSA Level Equal to Nadir Plus 2 ng/mL,inclusion,C156391
+NCI-2024-08021,PSA Level Greater than or Equal to One,inclusion,C136574
+NCI-2024-08021,Testosterone Greater than or Equal to 150 ng/dL,inclusion,C159774
+NCI-2022-07299,CD19 Positive,inclusion,C129255
+NCI-2020-06415,Blasts 5-10 Percent of Bone Marrow Nucleated Cells,inclusion,C137703
+NCI-2020-06415,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2023-08920,Estrogen Receptor Positive,inclusion,C15492
+NCI-2023-08920,Progesterone Receptor Positive,inclusion,C15496
+NCI-2024-08618,PSA Level Greater than Ten,inclusion,C137686
+NCI-2024-05664,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2024-06808,Folate Receptor Alpha Positive,inclusion,C131327
+NCI-2024-09413,CD19 Positive,inclusion,C129255
+NCI-2024-03916,MLL Gene Rearrangement,inclusion,C122623
+NCI-2024-03916,NPM1 Gene Mutation,inclusion,C82429
+NCI-2024-03916,NUP98 Gene Rearrangement,inclusion,C122692
+NCI-2020-06835,CD38 Positive,inclusion,C147087
+NCI-2020-06835,Circulating Plasma Cells 5 Percent or More of Peripheral Blood White Cells,exclusion,C176685
+NCI-2019-01723,MET Positive,inclusion,C131068
+NCI-2022-06409,Estrogen Receptor Positive,inclusion,C15492
+NCI-2017-01054,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2017-01054,HA-1(H) Genotype Positive,inclusion,C157564
+NCI-2017-01054,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2019-03772,Estrogen Receptor Positive,inclusion,C15492
+NCI-2019-03772,Progesterone Receptor Positive,inclusion,C15496
+NCI-2011-02623,Estrogen Receptor Positive,inclusion,C15492
+NCI-2011-02623,Progesterone Receptor Positive,inclusion,C15496
+NCI-2011-02673,CD20 Positive,inclusion,C128631
+NCI-2014-01379,PIK3CA Gene Mutation,inclusion,C96271
+NCI-2016-01595,Estrogen Receptor Negative,inclusion,C15493
+NCI-2016-01595,Progesterone Receptor Negative,inclusion,C15497
+NCI-2016-01595,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2012-01995,Estrogen Receptor Positive,inclusion,C15492
+NCI-2012-01995,Progesterone Receptor Positive,inclusion,C15496
+NCI-2017-02066,BCR-ABL1 Fusion Protein Expression,inclusion,C36715
+NCI-2018-02129,ALK Fusion Gene Positive,exclusion,C142114
+NCI-2018-02129,BRAF NP_004324.2:p.V600E,exclusion,C98342
+NCI-2018-02129,Deleterious BRCA1 Gene Mutation,inclusion,C128814
+NCI-2018-02129,Deleterious BRCA2 Gene Mutation,inclusion,C128815
+NCI-2018-02129,EGFR NP_005219.2:p.T790M,exclusion,C98503
+NCI-2014-00746,Estrogen Receptor Positive,inclusion,C15492
+NCI-2014-00746,Progesterone Receptor Positive,inclusion,C15496
+NCI-2011-02980,CCND1 Positive,inclusion,C128832
+NCI-2011-02980,t(11;14),inclusion,C128641
+NCI-2014-00814,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2017-00135,ATR Gene Mutation,inclusion,C131479
+NCI-2017-00135,CHEK1 Gene Mutation,inclusion,C131788
+NCI-2017-00135,CHEK2 Gene Mutation,inclusion,C40458
+NCI-2017-00135,FANCC Gene Mutation,inclusion,C131792
+NCI-2017-00135,FANCD2 Gene Mutation,inclusion,C131790
+NCI-2017-00135,FANCF Gene Mutation,inclusion,C132003
+NCI-2017-00135,FANCM Gene Mutation,inclusion,C132004
+NCI-2017-00135,RAD54L Gene Mutation,inclusion,C132006
+NCI-2017-00135,RPA1 Gene Mutation,inclusion,C132007
+NCI-2014-01380,CCND1 Gene Amplification,inclusion,C36652
+NCI-2014-01380,CCND2 Gene Amplification,inclusion,C131785
+NCI-2014-01380,CCND3 Gene Amplification,inclusion,C131784
+NCI-2014-01380,CDK4 Gene Amplification,inclusion,C131786
+NCI-2014-01381,FGFR1 Gene Amplification,inclusion,C36650
+NCI-2014-01381,FGFR2 Gene Amplification,inclusion,C36651
+NCI-2014-01381,FGFR3 Gene Amplification,inclusion,C129621
+NCI-2013-00814,CDKN2A-p16 Positive,inclusion,C129258
+NCI-2018-00428,MET Positive,inclusion,C131068
+NCI-2013-00046,Human Immunodeficiency Virus 1 Positive,inclusion,C129253
+NCI-2013-00046,TNFRSF8 Positive,inclusion,C129257
+NCI-2020-03248,Blasts 20-30 Percent of Bone Marrow Nucleated Cells,inclusion,C146712
+NCI-2020-03248,Blasts 30 Percent or More of Bone Marrow Nucleated Cells,inclusion,C150453
+NCI-2019-08654,IDH1 Gene Mutation,inclusion,C118389
+NCI-2019-08654,IDH2 Gene Mutation,inclusion,C118390
+NCI-2014-01507,ALK Gene Translocation,inclusion,C129703
+NCI-2014-01507,ALK Positive,inclusion,C128831
+NCI-2023-09478,MDM2 Gene Amplification,inclusion,C36681
+NCI-2023-09478,MDM2 Positive,inclusion,C188288
+NCI-2023-09478,TP53 Gene Mutation,exclusion,C118396
+NCI-2022-08490,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2015-00128,Estrogen Receptor Negative,inclusion,C15493
+NCI-2015-00128,Estrogen Receptor Positive,inclusion,C15492
+NCI-2015-00128,Progesterone Receptor Negative,inclusion,C15497
+NCI-2015-00128,Progesterone Receptor Positive,inclusion,C15496
+NCI-2015-00128,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2019-02948,FLT3 Internal Tandem Duplication,inclusion,C67494
+NCI-2022-06443,Estrogen Receptor Negative,inclusion,C15493
+NCI-2022-06443,Progesterone Receptor Negative,inclusion,C15497
+NCI-2022-06443,ROR1 Positive,inclusion,C142123
+NCI-2022-06443,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2021-01687,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2021-01687,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2018-01725,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2020-13275,Castration Levels of Testosterone,inclusion,C129259
+NCI-2021-03009,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2019-02644,ALK Fusion Gene Positive,exclusion,C142114
+NCI-2019-02644,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2017-02398,Estrogen Receptor Negative,inclusion,C15493
+NCI-2017-02398,Progesterone Receptor Negative,inclusion,C15497
+NCI-2017-02398,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2017-01188,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2017-01188,HLA-A*0202 Positive Cells Present,exclusion,C147058
+NCI-2017-01188,HLA-B*5103 Positive Cells Present,exclusion,C147059
+NCI-2017-01188,HLA-C*0404 Positive Cells Present,exclusion,C147060
+NCI-2020-06404,Estrogen Receptor Positive,inclusion,C15492
+NCI-2020-06404,PIK3CA Gene Mutation,inclusion,C96271
+NCI-2022-04699,Castration Levels of Testosterone,inclusion,C129259
+NCI-2016-01853,Human Anti-Mouse Antibodies Positive,exclusion,C139787
+NCI-2016-01853,PTPRC Positive,inclusion,C134500
+NCI-2020-02951,Blasts 0 Percent of Peripheral Blood White Cells,inclusion,C154093
+NCI-2020-02951,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2017-00033,ROS1 Gene Mutation,exclusion,C130952
+NCI-2019-05160,EGFR Exon 19 Deletion Mutation,inclusion,C126892
+NCI-2019-05160,EGFR NP_005219.2:p.L858R,inclusion,C98515
+NCI-2019-05160,MET Overexpression Positive,inclusion,C148403
+NCI-2019-05160,c-MET Gene Amplification,inclusion,C43532
+NCI-2022-02322,Activating FGFR1 Gene Mutation,inclusion,C164197
+NCI-2022-02322,Activating FGFR2 Gene Mutation,inclusion,C164196
+NCI-2022-02322,Activating FGFR3 Gene Mutation,inclusion,C142132
+NCI-2022-02322,FGFR1 Gene Fusion Positive,inclusion,C148114
+NCI-2022-02322,FGFR2 Gene Fusion Positive,inclusion,C153237
+NCI-2022-02322,FGFR3 Gene Fusion Positive,inclusion,C148097
+NCI-2021-00125,Activating ERBB2 Mutation,inclusion,C129700
+NCI-2019-03186,Mesothelin Positive,inclusion,C128841
+NCI-2018-00070,Interleukin-3 Receptor Subunit Alpha Positive,inclusion,C132655
+NCI-2020-07372,BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.T315I,exclusion,C123846
+NCI-2020-07372,BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.V299L,exclusion,C130215
+NCI-2020-07372,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2019-03154,H3 K27M Mutation,inclusion,C129310
+NCI-2019-04589,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2019-04589,Human Papillomavirus-16 Positive,inclusion,C129455
+NCI-2020-02351,PIK3CA Gene Mutation,inclusion,C96271
+NCI-2019-02881,ALK Positive,exclusion,C128831
+NCI-2019-02881,EGFR Positive,exclusion,C134501
+NCI-2019-02881,ROS1 Positive,exclusion,C155991
+NCI-2017-02160,CD20 Positive,inclusion,C128631
+NCI-2021-03636,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-01526,Estrogen Receptor Positive,inclusion,C15492
+NCI-2019-01526,Progesterone Receptor Positive,inclusion,C15496
+NCI-2018-01387,CLDN18.2 Positive,inclusion,C153150
+NCI-2011-01915,1p/19q Codeletion,inclusion,C79099
+NCI-2011-01915,IDH1 Gene Mutation,inclusion,C118389
+NCI-2011-01915,IDH2 Gene Mutation,inclusion,C118390
+NCI-2016-01403,CCND1 Positive,inclusion,C128832
+NCI-2016-01403,t(11;14),inclusion,C128641
+NCI-2014-01508,EGFR Exon 19 Deletion Mutation,inclusion,C126892
+NCI-2014-01508,EGFR NP_005219.2:p.L858R,inclusion,C98515
+NCI-2014-01508,EGFR NP_005219.2:p.T790M,exclusion,C98503
+NCI-2023-06673,IDH Family Wildtype,inclusion,C136567
+NCI-2023-06673,Unmethylated MGMT Promoter,inclusion,C132892
+NCI-2018-02857,Human Papillomavirus-16 Positive,inclusion,C129455
+NCI-2018-02857,PD-L1,inclusion,C96024
+NCI-2018-00251,t(11;14) Positive,inclusion,C142136
+NCI-2022-00767,CD8-Positive T-Lymphocyte,inclusion,C12542
+NCI-2022-00767,SARS Coronavirus 2 Negative,exclusion,C176688
+NCI-2019-05152,EGFR Exon 19 Deletion Mutation,inclusion,C126892
+NCI-2019-05152,EGFR NP_005219.2:p.L858R,inclusion,C98515
+NCI-2019-03770,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-03770,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2021-12892,TSC1 Gene Inactivation,inclusion,C40462
+NCI-2021-12892,TSC2 Gene Inactivation,inclusion,C36696
+NCI-2021-01330,EGFR Exon 19 Deletion Mutation,inclusion,C126892
+NCI-2021-01330,EGFR NP_005219.2:p.L858R,inclusion,C98515
+NCI-2018-01959,MET Positive,inclusion,C131068
+NCI-2018-01959,c-MET Gene Amplification,inclusion,C43532
+NCI-2020-02645,PD-L1 Combined Positive Score Greater than or Equal to 1,inclusion,C200212
+NCI-2022-03838,EGFR Exon 20 Insertion Mutation,inclusion,C125605
+NCI-2022-03838,EGFR NP_005219.2:p.G719X,inclusion,C107154
+NCI-2022-03838,EGFR NP_005219.2:p.L861Q,inclusion,C98497
+NCI-2022-03838,EGFR T790M Mutation Negative,inclusion,C131326
+NCI-2021-00999,inv(16),exclusion,C119609
+NCI-2021-00999,t(15;17),exclusion,C128656
+NCI-2021-00999,t(8;21),exclusion,C119608
+NCI-2019-08794,PD-L1 Positive,inclusion,C128554
+NCI-2018-01744,EWSR1 Gene Translocation,inclusion,C128648
+NCI-2019-01822,ALK Gene Translocation,exclusion,C129703
+NCI-2017-00838,Estrogen Receptor Negative,inclusion,C15493
+NCI-2017-00838,Progesterone Receptor Negative,inclusion,C15497
+NCI-2017-00838,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2015-02261,CD20 Positive,inclusion,C128631
+NCI-2017-01110,Castration Levels of Testosterone,inclusion,C129259
+NCI-2017-01110,Deleterious BRCA1 Gene Mutation,inclusion,C128814
+NCI-2017-01110,Deleterious BRCA2 Gene Mutation,inclusion,C128815
+NCI-2017-00374,CCND1 Positive,inclusion,C128832
+NCI-2017-00374,CD19 Positive,inclusion,C129255
+NCI-2017-00374,CD20 Positive,inclusion,C128631
+NCI-2017-00374,CD5 Positive,inclusion,C131063
+NCI-2017-00374,Paired Box Protein Pax-5,inclusion,C30124
+NCI-2017-00374,t(11;14)(q13;q32),inclusion,C27490
+NCI-2017-01701,M Protein,inclusion,C17788
+NCI-2017-01701,Serum Free Immunoglobulin Light Chain,inclusion,C84260
+NCI-2017-02148,ALK Positive,inclusion,C128831
+NCI-2017-02148,CD20 Positive,inclusion,C128631
+NCI-2017-02148,Epstein-Barr Virus Positive,inclusion,C129454
+NCI-2017-02148,HTLV-1 Positive,exclusion,C142127
+NCI-2017-02148,Human Herpesvirus 8 Positive,inclusion,C146672
+NCI-2018-02127,CCND1/IGHG1 Fusion Negative,inclusion,C154139
+NCI-2018-02127,del(17p13),exclusion,C36424
+NCI-2018-02127,t(11;14) Negative,inclusion,C131064
+NCI-2018-01264,ACD Gene Mutation,inclusion,C152088
+NCI-2018-01264,CTC1 Gene Mutation,inclusion,C152085
+NCI-2018-01264,DKC1 Gene Mutation,inclusion,C152079
+NCI-2018-01264,NHP2 Gene Mutation,inclusion,C152082
+NCI-2018-01264,NOP10 Gene Mutation,inclusion,C152081
+NCI-2018-01264,PARN Gene Mutation,inclusion,C152086
+NCI-2018-01264,RTEL1 Gene Mutation,inclusion,C152087
+NCI-2018-01264,TERC Gene Mutation,inclusion,C152080
+NCI-2018-01264,TERT Gene Mutation,inclusion,C131104
+NCI-2018-01264,TINF2 Gene Mutation,inclusion,C152084
+NCI-2018-01264,WRAP53 Gene Mutation,inclusion,C152083
+NCI-2018-02482,Estrogen Receptor Negative,inclusion,C15493
+NCI-2018-02482,Progesterone Receptor Negative,inclusion,C15497
+NCI-2018-02482,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2019-05288,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2019-05288,HLA-A*0205 Positive Cells Present,inclusion,C131443
+NCI-2019-05288,HLA-A*0206 Positive Cells Present,inclusion,C131444
+NCI-2019-05288,LAGE-1A Positive,inclusion,C153126
+NCI-2019-05288,NY-ESO-1 Positive,inclusion,C131557
+NCI-2015-01912,Deleterious BRCA1 Gene Mutation,inclusion,C128814
+NCI-2015-01912,Deleterious BRCA2 Gene Mutation,inclusion,C128815
+NCI-2015-01912,Estrogen Receptor Negative,inclusion,C15493
+NCI-2015-01912,Progesterone Receptor Negative,inclusion,C15497
+NCI-2015-01912,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2021-00408,EDNRB Positive,inclusion,C177509
+NCI-2023-02320,PSA Doubling Time Less than or Equal to 12 Months,inclusion,C172352
+NCI-2023-02320,PSA Failure,inclusion,C93229
+NCI-2023-02320,PSA Level Equal to Nadir Plus 2 ng/mL,inclusion,C156391
+NCI-2023-02320,PSA Level Greater than 0.3,inclusion,C200254
+NCI-2023-02320,Testosterone Greater than 175 ng/dL,inclusion,C208257
+NCI-2023-07032,TNFRSF8 Positive,inclusion,C129257
+NCI-2017-01882,Estrogen Receptor Positive,inclusion,C15492
+NCI-2019-05283,MET Exon 14 Skipping Mutation,inclusion,C131179
+NCI-2019-05283,MET Fusion Gene Positive,inclusion,C136235
+NCI-2019-05283,c-MET Gene Amplification,inclusion,C43532
+NCI-2015-01295,CD20 Positive,inclusion,C128631
+NCI-2017-00230,BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.T315I,exclusion,C123846
+NCI-2017-00230,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2020-05784,ERBB2 Gene Amplification,inclusion,C36638
+NCI-2020-05784,ERBB2 Overexpression,inclusion,C150634
+NCI-2016-00053,Myeloblasts 5-19 Percent of Bone Marrow Nucleated Cells,inclusion,C36229
+NCI-2016-00053,Myeloblasts 5-19 Percent of Peripheral Blood White Cells,inclusion,C36222
+NCI-2016-00053,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2019-06939,Estrogen Receptor Positive,inclusion,C15492
+NCI-2019-06977,BCL2 Gene Translocation,inclusion,C38176
+NCI-2019-06977,C-Myc Translocation,inclusion,C27703
+NCI-2019-06977,Estrogen Receptor Negative,inclusion,C15493
+NCI-2019-06977,Progesterone Receptor Negative,inclusion,C15497
+NCI-2019-06977,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2019-00102,Epstein-Barr Virus Positive,inclusion,C129454
+NCI-2019-00102,Estrogen Receptor Negative,inclusion,C15493
+NCI-2019-00102,Progesterone Receptor Negative,inclusion,C15497
+NCI-2019-00102,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2021-09448,CD4 Positive,inclusion,C153220
+NCI-2021-09448,TNFRSF8 Positive,inclusion,C129257
+NCI-2020-07991,CD274 Gene Amplification,inclusion,C174141
+NCI-2020-07991,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2018-00193,H3 K27M Mutation,inclusion,C129310
+NCI-2020-06323,ERBB2 Gene Amplification,inclusion,C36638
+NCI-2017-02038,Castration Levels of Testosterone,inclusion,C129259
+NCI-2017-02038,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2017-00516,ALK Positive,inclusion,C128831
+NCI-2021-14358,PD-L1 Positive,inclusion,C128554
+NCI-2023-00113,PSA Failure,inclusion,C93229
+NCI-2023-00113,PSA Level Greater than 0.2,inclusion,C138946
+NCI-2023-00113,PSA Level Greater than Two,inclusion,C138948
+NCI-2023-00113,Testosterone Greater than or Equal to 150 ng/dL,inclusion,C159774
+NCI-2021-08520,PSA Level Greater than One Hundred,exclusion,C177514
+NCI-2022-04363,Castration Levels of Testosterone,inclusion,C129259
+NCI-2017-01681,BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.T315I,exclusion,C123846
+NCI-2017-01681,BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.V299L,exclusion,C130215
+NCI-2015-00606,BRCA Rearrangement,inclusion,C122866
+NCI-2015-00606,Deleterious BRCA1 Gene Mutation,inclusion,C128814
+NCI-2015-00606,Deleterious BRCA2 Gene Mutation,inclusion,C128815
+NCI-2022-03368,MDM2 Gene Amplification,inclusion,C36681
+NCI-2022-03368,MDM2 Positive,inclusion,C188288
+NCI-2022-03368,TP53 Gene Mutation,exclusion,C118396
+NCI-2020-01860,CDK12 Loss of Function Mutation,inclusion,C158676
+NCI-2020-01860,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2020-01860,Mismatch Repair Protein Deficiency,inclusion,C137827
+NCI-2020-01860,PSA Failure,inclusion,C93229
+NCI-2018-00542,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-00542,PSA Level Greater than or Equal to One,inclusion,C136574
+NCI-2015-01694,ATM Biallelic Inactivation,inclusion,C142120
+NCI-2015-01694,BRCA1 Biallelic Inactivation,inclusion,C142121
+NCI-2015-01694,BRCA2 Biallelic Inactivation,inclusion,C142122
+NCI-2015-01694,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-00016,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-00016,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2017-01311,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2017-01311,Loss of Chromosome 17p,inclusion,C36499
+NCI-2013-00958,Blasts Less than or Equal to 10000/mm3,inclusion,C150456
+NCI-2020-02983,Estrogen Receptor Positive,inclusion,C15492
+NCI-2020-02983,Progesterone Receptor Positive,inclusion,C15496
+NCI-2010-00403,HTLV-1 Positive,inclusion,C142127
+NCI-2010-00299,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2010-00190,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2010-02247,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2023-01619,Castration Levels of Testosterone,inclusion,C129259
+NCI-2023-01619,NRG1 Gene Fusion Positive,inclusion,C164193
+NCI-2019-05729,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2015-00489,CCND1 Protein Overexpression,inclusion,C36485
+NCI-2015-00489,t(11;14)(q13;q32),inclusion,C27490
+NCI-2016-01031,H3 K27M Mutation,inclusion,C129310
+NCI-2016-01031,IDH1 NP_005887.2:p.R132X,exclusion,C117280
+NCI-2023-03813,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2023-03813,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2023-03813,Mismatch Repair Protein Deficiency,exclusion,C137827
+NCI-2018-01220,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2011-01144,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2014-01543,Estrogen Receptor Negative,inclusion,C15493
+NCI-2014-01543,Progesterone Receptor Negative,inclusion,C15497
+NCI-2015-01947,NTRK1 Fusion Positive,inclusion,C131070
+NCI-2015-01947,NTRK2 Fusion Positive,inclusion,C132235
+NCI-2015-01947,NTRK3 Fusion Positive,inclusion,C132236
+NCI-2018-00191,Estrogen Receptor Positive,inclusion,C15492
+NCI-2018-00191,Progesterone Receptor Positive,inclusion,C15496
+NCI-2015-01848,NTRK1 Fusion Positive,inclusion,C131070
+NCI-2015-01848,NTRK1 Gene Rearrangement,inclusion,C46006
+NCI-2015-01848,NTRK2 Fusion Positive,inclusion,C132235
+NCI-2015-01848,NTRK2 Gene Rearrangement,inclusion,C131321
+NCI-2015-01848,NTRK3 Fusion Positive,inclusion,C132236
+NCI-2015-01848,NTRK3 Gene Rearrangement,inclusion,C131325
+NCI-2015-01848,ROS1 Fusion Positive,inclusion,C131071
+NCI-2017-00740,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2018-02483,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2018-02483,Merkel Cell Polyomavirus T Antigen Positive,inclusion,C142093
+NCI-2017-01595,CD20 Positive,inclusion,C128631
+NCI-2014-01782,TNFRSF8 Positive,inclusion,C129257
+NCI-2013-00073,CD19 Positive,inclusion,C129255
+NCI-2013-00518,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2013-00518,MLL Gene Rearrangement,inclusion,C122623
+NCI-2013-00518,inv(3),inclusion,C111789
+NCI-2013-00518,t(1;19),inclusion,C128654
+NCI-2013-00518,t(3;3),inclusion,C128647
+NCI-2013-00518,t(4;11),inclusion,C128652
+NCI-2013-00518,t(6;11),inclusion,C128651
+NCI-2013-00518,t(6;9),inclusion,C128650
+NCI-2013-00518,t(9;22),inclusion,C117116
+NCI-2021-00124,FLT3 Internal Tandem Duplication,inclusion,C67494
+NCI-2021-00124,FLT3 Tyrosine Kinase Domain Point Mutation,inclusion,C67495
+NCI-2021-00124,TP53 wt Allele,inclusion,C52271
+NCI-2012-00206,Castration Levels of Testosterone,inclusion,C129259
+NCI-2021-12355,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2021-12355,KRAS Positive,inclusion,C142134
+NCI-2021-12355,NRAS Positive,inclusion,C171618
+NCI-2019-08059,Interleukin-3 Receptor Subunit Alpha Positive,inclusion,C132655
+NCI-2020-08496,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2020-08496,HLA-B*13:02 Positive Cells Present,exclusion,C193481
+NCI-2020-08496,Mesothelin Positive,inclusion,C128841
+NCI-2019-01493,CD20 Positive,inclusion,C128631
+NCI-2019-01493,Human Herpesvirus 8,inclusion,C14327
+NCI-2017-01988,CD19 Positive,inclusion,C129255
+NCI-2017-00421,CD19 Positive,inclusion,C129255
+NCI-2017-00421,Minimal Residual Disease Negativity,inclusion,C124428
+NCI-2018-02829,EGFR Positive,inclusion,C134501
+NCI-2019-01726,CD33 Positive,inclusion,C132228
+NCI-2019-01726,FLT3 Internal Tandem Duplication Positive,inclusion,C150626
+NCI-2019-01726,FLT3 Tyrosine Kinase Domain Point Mutation,inclusion,C67495
+NCI-2017-02458,CD19 Positive,inclusion,C129255
+NCI-2017-02458,CD22 Positive,inclusion,C131066
+NCI-2020-04592,ERBB2 Gene Amplification,inclusion,C36638
+NCI-2019-08530,AKT1 Gene Mutation,inclusion,C98304
+NCI-2019-08530,AKT2 Gene Mutation,inclusion,C141362
+NCI-2019-08530,AKT3 Gene Mutation,inclusion,C150442
+NCI-2019-08530,INPP4A Gene Mutation,inclusion,C170417
+NCI-2019-08530,INPP4B Gene Mutation,inclusion,C170427
+NCI-2019-08530,INPP5D Gene Mutation,inclusion,C170428
+NCI-2019-08530,INPPL1 Gene Mutation,inclusion,C170418
+NCI-2019-08530,MTOR Gene Mutation,inclusion,C133686
+NCI-2019-08530,PIK3C2G Gene Mutation,inclusion,C170420
+NCI-2019-08530,PIK3C3 Gene Mutation,inclusion,C170424
+NCI-2019-08530,PIK3CA Gene Mutation,inclusion,C96271
+NCI-2019-08530,PIK3CB Gene Mutation,inclusion,C141340
+NCI-2019-08530,PIK3CD Gene Mutation,inclusion,C170419
+NCI-2019-08530,PIK3CG Gene Mutation,inclusion,C146727
+NCI-2019-08530,PIK3R1 Gene Mutation,inclusion,C132894
+NCI-2019-08530,PIK3R2 Gene Mutation,inclusion,C170406
+NCI-2019-08530,PIK3R3 Gene Mutation,inclusion,C170423
+NCI-2023-03966,KRAS NP_004976.2:p.G13X,inclusion,C117177
+NCI-2023-03966,KRAS NP_004976.2:p.Q61X,inclusion,C107478
+NCI-2023-03966,MAP2K1 Gene Mutation,exclusion,C147062
+NCI-2023-03966,MAP2K2 Gene Mutation,exclusion,C153256
+NCI-2023-03966,NRAS Gene Mutation,inclusion,C41381
+NCI-2017-01826,Estrogen Receptor Negative,inclusion,C15493
+NCI-2017-01826,Progesterone Receptor Negative,inclusion,C15497
+NCI-2017-01826,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2020-08110,PSA Density Less than 0.15,inclusion,C171076
+NCI-2020-08110,PSA Level Greater than Fifteen,inclusion,C175699
+NCI-2020-08110,PSA Level Less than Fifteen,inclusion,C137699
+NCI-2022-01985,Adenovirus Positive,inclusion,C141278
+NCI-2018-00273,Estrogen Receptor Positive,inclusion,C15492
+NCI-2018-00273,Progesterone Receptor Positive,inclusion,C15496
+NCI-2020-14000,BRAF NP_004324.2:p.G469X,inclusion,C177443
+NCI-2020-14000,BRAF NP_004324.2:p.L485X,inclusion,C177447
+NCI-2020-14000,BRAF NP_004324.2:p.L597X,inclusion,C177448
+NCI-2020-14000,MAP2K1 Gene Mutation,inclusion,C147062
+NCI-2020-14000,MAP2K2 Gene Mutation,inclusion,C153256
+NCI-2021-08586,Estrogen Receptor Negative,inclusion,C15493
+NCI-2021-08586,PD-L1 Expression Greater than or Equal to 50 Percent,inclusion,C190846
+NCI-2021-08586,Progesterone Receptor Negative,inclusion,C15497
+NCI-2021-08586,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2020-04529,ALK Gene Mutation Negative,inclusion,C148090
+NCI-2020-04529,BRAF Gene Mutation Negative,inclusion,C148089
+NCI-2020-04529,EGFR Gene Mutation Negative,inclusion,C148091
+NCI-2020-04529,KEAP1 Gene Mutation,inclusion,C129685
+NCI-2020-04529,NFE2L2 Gene Mutation,inclusion,C129684
+NCI-2020-04529,NTRK Family Gene Mutation Negative,inclusion,C173862
+NCI-2020-04529,ROS1 Gene Mutation Negative,inclusion,C173861
+NCI-2014-01526,SARS Coronavirus 2 Positive,exclusion,C171647
+NCI-2021-06750,CD4 Positive,inclusion,C153220
+NCI-2015-00841,Deleterious EGFR Gene Mutation,inclusion,C150500
+NCI-2015-01143,NY-ESO-1 Positive,inclusion,C131557
+NCI-2020-00506,Castration Levels of Testosterone,inclusion,C129259
+NCI-2020-00506,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2018-03722,Adenovirus DNA Viremia,inclusion,C157570
+NCI-2019-02123,Activating ERBB2 Mutation,inclusion,C129700
+NCI-2019-02123,EGFR Exon 20 Insertion Mutation,inclusion,C125605
+NCI-2019-02123,ERBB Family Gene Fusion Positive,inclusion,C168524
+NCI-2019-02123,NRG1 Gene Fusion Positive,inclusion,C164193
+NCI-2019-08226,Deleterious BARD1 Gene Mutation,inclusion,C131776
+NCI-2019-08226,Deleterious BRCA1 Gene Mutation,inclusion,C128814
+NCI-2019-08226,Deleterious BRCA2 Gene Mutation,inclusion,C128815
+NCI-2019-08226,Deleterious BRIP1 Gene Mutation,inclusion,C131774
+NCI-2019-08226,Deleterious FANCA Gene Mutation,inclusion,C150149
+NCI-2019-08226,Deleterious NBN Gene Mutation,inclusion,C150157
+NCI-2019-08226,Deleterious PALB2 Gene Mutation,inclusion,C131775
+NCI-2019-08226,Deleterious RAD51 Gene Mutation,inclusion,C156011
+NCI-2019-08226,Deleterious RAD51B Gene Mutation,inclusion,C134504
+NCI-2019-08226,Deleterious RAD51C Gene Mutation,inclusion,C131781
+NCI-2019-08226,Deleterious RAD51D Gene Mutation,inclusion,C131782
+NCI-2022-04132,BRAF NP_004324.2:p.V600E,exclusion,C98342
+NCI-2022-04132,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2019-01330,FGFR1 Gene Fusion Positive,inclusion,C148114
+NCI-2019-01330,FGFR3 Gene Fusion Positive,inclusion,C148097
+NCI-2019-04561,FGFR1 Gene Translocation,inclusion,C150615
+NCI-2019-04561,FGFR2 Gene Translocation,inclusion,C138068
+NCI-2019-04561,FGFR3 Gene Translocation,inclusion,C150619
+NCI-2018-00619,Estrogen Receptor Negative,inclusion,C15493
+NCI-2018-00619,Progesterone Receptor Negative,inclusion,C15497
+NCI-2018-00619,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2018-02231,Estrogen Receptor Negative,inclusion,C15493
+NCI-2018-02231,Progesterone Receptor Negative,inclusion,C15497
+NCI-2018-02231,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2014-01763,inv(16),exclusion,C119609
+NCI-2014-01763,t(15;17),exclusion,C128656
+NCI-2014-01763,t(16;16),exclusion,C128645
+NCI-2014-01763,t(8;21),exclusion,C119608
+NCI-2019-02414,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-02414,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2022-06008,Androgen Receptor Positive,inclusion,C94297
+NCI-2022-06008,Estrogen Receptor Positive,inclusion,C15492
+NCI-2018-01226,EWSR1 Gene Translocation,inclusion,C128648
+NCI-2019-07693,PD-L1 Positive,inclusion,C128554
+NCI-2014-02300,EGFR Activating Mutation,inclusion,C92172
+NCI-2021-13800,MSI-H Negative,inclusion,C157521
+NCI-2016-00279,Androgen Receptor Positive,inclusion,C94297
+NCI-2016-00279,Estrogen Receptor Negative,inclusion,C15493
+NCI-2016-00279,Progesterone Receptor Negative,inclusion,C15497
+NCI-2016-00279,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2018-03464,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-03464,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2020-11458,BRAF wt Allele,inclusion,C51194
+NCI-2020-11458,c-MET Gene Amplification,inclusion,C43532
+NCI-2018-00078,Activating ERBB2 Mutation,inclusion,C129700
+NCI-2018-00078,EGFR Activating Mutation,inclusion,C92172
+NCI-2018-00078,EGFR Exon 20 Insertion Mutation,inclusion,C125605
+NCI-2018-00078,ERBB2 Exon 20 Insertion Mutation,inclusion,C150633
+NCI-2014-00495,Activating ERBB2 Mutation,inclusion,C129700
+NCI-2014-00495,EGFR Exon 18 Mutation,inclusion,C128661
+NCI-2015-02044,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-08221,KRAS NP_004976.2:p.G12C,inclusion,C98365
+NCI-2022-04993,CD19 Negative,inclusion,C132245
+NCI-2022-04993,CD19 Positive,inclusion,C129255
+NCI-2022-04993,CD20 Positive,inclusion,C128631
+NCI-2019-01430,CD19 Positive,inclusion,C129255
+NCI-2019-01430,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2022-01625,Monoclonal Band,inclusion,C113808
+NCI-2015-00071,t(15;17),exclusion,C128656
+NCI-2019-08596,RET Fusion Positive,inclusion,C131069
+NCI-2019-08596,RET Gene Mutation,inclusion,C43293
+NCI-2015-02263,EGFR Activating Mutation,exclusion,C92172
+NCI-2015-02263,Estrogen Receptor Negative,inclusion,C15493
+NCI-2015-02263,PD-L1 Positive,inclusion,C128554
+NCI-2015-02263,Progesterone Receptor Negative,inclusion,C15497
+NCI-2015-02263,ROS1 Gene Translocation,exclusion,C129704
+NCI-2015-02263,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2021-12360,Estrogen Receptor Positive,inclusion,C15492
+NCI-2021-12360,Progesterone Receptor Positive,inclusion,C15496
+NCI-2021-12360,VTCN1 Positive,inclusion,C160882
+NCI-2016-01475,Interleukin-3 Receptor Subunit Alpha Positive,inclusion,C132655
+NCI-2019-02879,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-02879,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2019-02879,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2019-06973,Estrogen Receptor Negative,inclusion,C15493
+NCI-2019-06973,MUC1 with Truncated O-Glycans Positive Neoplastic Cells Present,inclusion,C165422
+NCI-2019-06973,Progesterone Receptor Negative,inclusion,C15497
+NCI-2019-06973,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2022-00300,EGFR Activating Mutation,inclusion,C92172
+NCI-2022-00300,EGFR NP_005219.2:p.C797X TKI Resistant Mutation,inclusion,C185938
+NCI-2022-00300,ETV6/RUNX1 Fusion Gene,exclusion,C18517
+NCI-2017-01941,Myeloblasts More than 5 Percent of Bone Marrow Nucleated Cells,inclusion,C156000
+NCI-2019-06175,Castration Levels of Testosterone,inclusion,C129259
+NCI-2022-01699,BRAF V600E Negative,inclusion,C153163
+NCI-2022-01699,KRAS Gene Mutation Negative,inclusion,C142879
+NCI-2022-01699,NRAS Gene Mutation Negative,inclusion,C148093
+NCI-2014-01966,Estrogen Receptor Positive,inclusion,C15492
+NCI-2014-01966,Progesterone Receptor Positive,inclusion,C15496
+NCI-2021-06147,Castration Levels of Testosterone,inclusion,C129259
+NCI-2021-06147,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2019-07289,Loss of Chromosome 17p,exclusion,C36499
+NCI-2019-07289,TP53 Gene Deletion,exclusion,C133694
+NCI-2019-07289,TP53 Gene Mutation,exclusion,C118396
+NCI-2019-03812,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-00977,ATM Biallelic Inactivation,inclusion,C142120
+NCI-2018-00977,ATM Monoallelic Inactivation,inclusion,C150584
+NCI-2018-00977,BRCA1 Biallelic Inactivation,inclusion,C142121
+NCI-2018-00977,BRCA2 Biallelic Inactivation,inclusion,C142122
+NCI-2018-00977,FANCA Biallelic Inactivation,inclusion,C150583
+NCI-2018-00977,PALB2 Biallelic Inactivation,inclusion,C150582
+NCI-2009-01433,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2020-05619,ASXL1 Gene Mutation,exclusion,C97313
+NCI-2020-05619,CBL Gene Mutation,inclusion,C136645
+NCI-2020-05619,CSF3R Gene Mutation,inclusion,C153225
+NCI-2020-05619,DNMT3A Gene Mutation,exclusion,C150497
+NCI-2020-05619,EZH2 Gene Mutation,inclusion,C97311
+NCI-2020-05619,FBXW7 Gene Mutation,inclusion,C131484
+NCI-2020-05619,GATA1 Exon 2 Mutation,inclusion,C132233
+NCI-2020-05619,GATA1 Exon 3 Mutation,inclusion,C132232
+NCI-2020-05619,HRAS Gene Mutation,inclusion,C45934
+NCI-2020-05619,IDH1 NP_005887.2:p.R132X,inclusion,C117280
+NCI-2020-05619,IDH2 Gene Mutation,inclusion,C118390
+NCI-2020-05619,JAK2 Exon 12 Mutation,inclusion,C158677
+NCI-2020-05619,JAK2 Exon 14 Mutation,inclusion,C174178
+NCI-2020-05619,JAK2 Exon 16 Mutation,inclusion,C174179
+NCI-2020-05619,KMT2A Gene Mutation,inclusion,C162513
+NCI-2020-05619,MAP2K1 Gene Mutation,inclusion,C147062
+NCI-2020-05619,MPL Gene Mutation,inclusion,C126821
+NCI-2020-05619,MYD88 Gene Mutation,inclusion,C128175
+NCI-2020-05619,NPM1 Gene Mutation,inclusion,C82429
+NCI-2020-05619,NRAS Gene Mutation,inclusion,C41381
+NCI-2020-05619,PDGFRA Gene Mutation,inclusion,C39718
+NCI-2020-05619,PHF6 Gene Mutation,inclusion,C153270
+NCI-2020-05619,RB1 Gene Mutation,inclusion,C133696
+NCI-2020-05619,RUNX1 Gene Mutation,inclusion,C38362
+NCI-2020-05619,SF3B1 Gene Mutation,inclusion,C133702
+NCI-2020-05619,SRSF2 Gene Mutation,inclusion,C133698
+NCI-2020-05619,STAG2 Gene Mutation,inclusion,C153513
+NCI-2020-05619,STAT3 Gene Mutation,inclusion,C153514
+NCI-2020-05619,TET2 Gene Mutation,exclusion,C148283
+NCI-2020-05619,TP53 Gene Mutation,inclusion,C118396
+NCI-2020-05619,U2AF1 Gene Mutation,inclusion,C133700
+NCI-2020-05619,WT1 Gene Mutation,inclusion,C146726
+NCI-2020-05619,ZRSR2 Gene Mutation,inclusion,C133701
+NCI-2016-00221,Testosterone Greater than or Equal to 150 ng/dL,inclusion,C159774
+NCI-2012-01898,Castration Levels of Testosterone,inclusion,C129259
+NCI-2022-09082,Estrogen Receptor Negative,inclusion,C15493
+NCI-2022-09082,HER2/Neu Expression by Immunohistochemistry 1+,inclusion,C147525
+NCI-2022-09082,HER2/Neu Expression by Immunohistochemistry 2+,inclusion,C147526
+NCI-2022-09082,Progesterone Receptor Negative,inclusion,C15497
+NCI-2019-03401,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-03401,Deleterious BRCA1 Gene Mutation,inclusion,C128814
+NCI-2019-03401,Deleterious BRCA2 Gene Mutation,inclusion,C128815
+NCI-2019-03401,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2019-06981,Respiratory Syncytial Virus Positive,inclusion,C173858
+NCI-2023-01563,BRAF NP_004324.2:p.V600E,exclusion,C98342
+NCI-2023-01563,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2023-01563,Mismatch Repair Protein Deficiency,exclusion,C137827
+NCI-2018-00500,BCL2 Gene Translocation,exclusion,C38176
+NCI-2018-00500,BCL6 Gene Translocation,exclusion,C134901
+NCI-2018-00500,C-Myc Translocation,exclusion,C27703
+NCI-2022-02287,Castration Levels of Testosterone,inclusion,C129259
+NCI-2022-02287,PSA Level Greater than or Equal to One,inclusion,C136574
+NCI-2019-05381,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2018-03371,IDH Family Wildtype,inclusion,C136567
+NCI-2018-03371,Unmethylated MGMT Promoter,inclusion,C132892
+NCI-2016-01009,ALK Gene Translocation,inclusion,C129703
+NCI-2016-01009,EGFR Activating Mutation,inclusion,C92172
+NCI-2016-01009,ROS1 Gene Translocation,inclusion,C129704
+NCI-2016-00042,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2016-00042,Elevated WT1,inclusion,C153235
+NCI-2016-00042,Epstein-Barr Virus Positive,inclusion,C129454
+NCI-2016-00042,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2011-03362,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2020-06602,Estrogen Receptor Negative,inclusion,C15493
+NCI-2020-06602,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2020-06602,MAGEA1 Positive,inclusion,C175393
+NCI-2020-06602,Progesterone Receptor Negative,inclusion,C15497
+NCI-2020-06602,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2014-02462,Merkel Cell Polyomavirus T Antigen Positive,inclusion,C142093
+NCI-2015-00329,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2015-00329,WT1 Positive,inclusion,C129453
+NCI-2019-02216,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2018-00176,Quantifiable Minimal Residual Disease Positivity,inclusion,C124432
+NCI-2015-00772,EGFR Exon 19 Deletion Mutation,inclusion,C126892
+NCI-2015-00772,EGFR NP_005219.2:p.L858R,inclusion,C98515
+NCI-2015-00772,EGFR NP_005219.2:p.T790M,inclusion,C98503
+NCI-2022-04992,Microsatellite Stable,inclusion,C131459
+NCI-2020-07116,ARID1A Gene Mutation,inclusion,C157462
+NCI-2023-10317,Castration Levels of Testosterone,inclusion,C129259
+NCI-2023-10317,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2017-00194,Microsatellite Stable,inclusion,C131459
+NCI-2022-01626,Estrogen Receptor Negative,inclusion,C15493
+NCI-2022-01626,Folate Receptor Alpha,inclusion,C39284
+NCI-2022-01626,Progesterone Receptor Negative,inclusion,C15497
+NCI-2018-01007,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2018-01007,HLA-A*0206 Positive Cells Present,inclusion,C131444
+NCI-2018-01007,HLA-A*03:01 Positive Cells Present,inclusion,C176683
+NCI-2018-01007,HLA-A*24:02 Positive Cells Present,inclusion,C142110
+NCI-2018-01007,HLA-B*1501 Positive Cells Present,inclusion,C154112
+NCI-2018-01007,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2013-00898,Estrogen Receptor Positive,inclusion,C15492
+NCI-2021-09180,NY-ESO-1 Positive,inclusion,C131557
+NCI-2012-00742,EGFR Exon 20 Insertion Mutation,exclusion,C125605
+NCI-2019-07696,Blasts More than 10 Percent of Bone Marrow Nucleated Cells,inclusion,C150457
+NCI-2018-00514,M Protein,inclusion,C17788
+NCI-2018-00514,Plasma Cell,inclusion,C12486
+NCI-2018-00514,Serum Free Immunoglobulin Light Chain,inclusion,C84260
+NCI-2015-01753,Estrogen Receptor Negative,inclusion,C15493
+NCI-2015-01753,Progesterone Receptor Negative,inclusion,C15497
+NCI-2015-01753,ROR1 Positive,inclusion,C142123
+NCI-2015-01753,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2015-00299,CD20 Positive,inclusion,C128631
+NCI-2012-01505,Human Anti-Mouse Antibodies Positive,exclusion,C139787
+NCI-2012-01505,PTPRC Positive,inclusion,C134500
+NCI-2010-00404,Human Anti-Mouse Antibodies Positive,exclusion,C139787
+NCI-2010-00404,PTPRC Positive,inclusion,C134500
+NCI-2018-00210,UGT1A1*28 Allele,exclusion,C72564
+NCI-2015-02286,CD19 Positive,inclusion,C129255
+NCI-2021-01395,ERBB2 Overexpression,inclusion,C150634
+NCI-2021-12971,MYC Gene Amplification,inclusion,C36641
+NCI-2015-01928,IL2RA Positive,inclusion,C129706
+NCI-2017-00796,AG7 Antigen Positive,inclusion,C146724
+NCI-2021-02567,Trisomy 21,exclusion,C43224
+NCI-2021-02360,ALK Positive,inclusion,C128831
+NCI-2021-02360,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2021-02360,Inactivating BRAF Gene Mutation,inclusion,C156046
+NCI-2021-02360,ROS1 Positive,inclusion,C155991
+NCI-2019-01428,SARS Coronavirus 2 Positive,exclusion,C171647
+NCI-2019-02810,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2019-02810,Human Papillomavirus-16 Positive,inclusion,C129455
+NCI-2021-08516,Loss of INI 1 Protein Expression,inclusion,C121966
+NCI-2021-08516,SMARCB1 Gene Mutation,inclusion,C136623
+NCI-2021-08516,SS18/SSX Rearrangement Positive,inclusion,C181087
+NCI-2015-01994,EGFR Exon 19 Deletion Mutation,inclusion,C126892
+NCI-2015-01994,EGFR NP_005219.2:p.L858R,inclusion,C98515
+NCI-2015-01994,c-MET Gene Amplification,inclusion,C43532
+NCI-2014-01218,LYPD3 Positive,inclusion,C132243
+NCI-2016-01499,SF3B1 Gene Mutation,inclusion,C133702
+NCI-2016-01499,SRSF2 Gene Deletion,inclusion,C133699
+NCI-2016-01499,SRSF2 Gene Mutation,inclusion,C133698
+NCI-2016-01499,inv(16),exclusion,C119609
+NCI-2016-01499,t(16;16),exclusion,C128645
+NCI-2016-01499,t(8;21),exclusion,C119608
+NCI-2014-02251,BCR-ABL1 Fusion Protein Expression,inclusion,C36715
+NCI-2014-02251,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2016-01720,Cytomegalovirus Positive,inclusion,C131328
+NCI-2016-00404,ENPP3 Positive,inclusion,C146756
+NCI-2016-00215,DLL3 Positive,inclusion,C140465
+NCI-2018-00970,CD20 Positive,inclusion,C128631
+NCI-2014-02171,Rous Sarcoma Virus Positive,inclusion,C142092
+NCI-2016-00911,Neoplastic Plasma Cells More than 20 Percent of Bone Marrow Nucleated Cells,inclusion,C138322
+NCI-2020-01033,ERBB2 Gene Amplification,inclusion,C36638
+NCI-2020-01033,ERBB2 Overexpression,inclusion,C150634
+NCI-2022-04065,KMT2A Gene Amplification,inclusion,C198506
+NCI-2022-04065,MLL Gene Rearrangement,inclusion,C122623
+NCI-2022-04065,NPM1 Gene Mutation,inclusion,C82429
+NCI-2022-04065,NUP98 Gene Mutation,inclusion,C153268
+NCI-2018-02515,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-02515,PD-L1 Overexpression,inclusion,C122808
+NCI-2018-02515,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2018-02515,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2018-00935,Estrogen Receptor Negative,inclusion,C15493
+NCI-2018-00935,High-Frequency Microsatellite Instability,inclusion,C36493
+NCI-2018-00935,Progesterone Receptor Negative,inclusion,C15497
+NCI-2018-00935,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2015-01852,EGFR Gene Amplification,inclusion,C36649
+NCI-2020-06114,ERBB2 Gene Amplification,inclusion,C36638
+NCI-2017-01526,FGFR2 Gene Amplification,inclusion,C36651
+NCI-2017-01526,FGFR2 Gene Fusion Positive,inclusion,C153237
+NCI-2018-02535,HRAS Gene Mutation,inclusion,C45934
+NCI-2018-00072,Lymphoblasts 20 Percent or More of Peripheral Blood White Cells,inclusion,C146662
+NCI-2013-01795,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2013-01795,RET Gene Mutation,inclusion,C43293
+NCI-2019-01497,CD22 Positive,inclusion,C131066
+NCI-2019-01497,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2019-02382,Castration Levels of Testosterone,inclusion,C129259
+NCI-2018-03356,TP53 Gene Mutation,inclusion,C118396
+NCI-2015-01332,PD-L1 Positive,inclusion,C128554
+NCI-2016-00952,MGMT Gene Promoter Methylation,inclusion,C153562
+NCI-2017-01112,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2017-01112,FLT3 Internal Tandem Duplication,inclusion,C67494
+NCI-2019-04827,CD19 Negative,exclusion,C132245
+NCI-2019-04827,CD20 Negative,exclusion,C137690
+NCI-2019-01036,Activating NOTCH1 Mutation,inclusion,C158063
+NCI-2019-01036,Activating NOTCH2 Mutation,inclusion,C158059
+NCI-2019-01036,Activating NOTCH3 Mutation,inclusion,C158058
+NCI-2019-01036,Activating NOTCH4 Mutation,inclusion,C158062
+NCI-2015-01846,Activating MET Mutation,inclusion,C129701
+NCI-2015-01846,c-MET Gene Amplification,inclusion,C43532
+NCI-2014-00373,Estrogen Receptor Negative,inclusion,C15493
+NCI-2014-00373,Progesterone Receptor Negative,inclusion,C15497
+NCI-2014-00373,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2015-01973,Loss of Chromosome 17p,inclusion,C36499
+NCI-2015-01973,TP53 Gene Mutation,inclusion,C118396
+NCI-2018-02007,Estrogen Receptor Positive,inclusion,C15492
+NCI-2015-01356,Epstein-Barr Virus Positive,inclusion,C129454
+NCI-2010-02332,CD38 Positive,inclusion,C147087
+NCI-2017-00300,RET Fusion Positive,inclusion,C131069
+NCI-2017-00300,RET Gene Mutation,inclusion,C43293
+NCI-2017-00300,RET/PTC Rearrangement,inclusion,C46005
+NCI-2019-00828,Estrogen Receptor Negative,inclusion,C15493
+NCI-2019-00828,Progesterone Receptor Negative,inclusion,C15497
+NCI-2019-00828,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2013-02214,ALK Gene Translocation Negative,inclusion,C134488
+NCI-2013-02214,Activating EGFR Gene Mutation Negative,inclusion,C134494
+NCI-2013-02335,Hepatitis B Virus Positive,inclusion,C141405
+NCI-2013-02335,Hepatitis C Virus Positive,inclusion,C129452
+NCI-2019-07321,Estrogen Receptor Positive,inclusion,C15492
+NCI-2021-09512,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2017-00579,Estrogen Receptor Negative,inclusion,C15493
+NCI-2017-00579,Progesterone Receptor Negative,inclusion,C15497
+NCI-2017-00579,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2017-00268,IDH1 Gene Mutation,inclusion,C118389
+NCI-2016-00528,Androgen Receptor Positive,inclusion,C94297
+NCI-2016-00528,Estrogen Receptor Positive,inclusion,C15492
+NCI-2012-02781,BCR-ABL1 Fusion Protein Expression,inclusion,C36715
+NCI-2012-02781,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2018-02097,Activating ERBB2 Mutation,inclusion,C129700
+NCI-2018-02097,ERBB2 Overexpression,inclusion,C150634
+NCI-2019-07995,TNFRSF8 Positive,inclusion,C129257
+NCI-2016-01328,Castration Levels of Testosterone,inclusion,C129259
+NCI-2012-01145,Blasts 10-19 Percent of Bone Marrow Nucleated Cells,inclusion,C41401
+NCI-2012-01145,t(9;22),exclusion,C117116
+NCI-2016-00313,TNFRSF8 Positive,inclusion,C129257
+NCI-2015-00008,CDK4 Gene Amplification,inclusion,C131786
+NCI-2015-00008,MDM2 Gene Amplification,inclusion,C36681
+NCI-2015-00008,TP53 wt Allele,inclusion,C52271
+NCI-2019-08793,Estrogen Receptor Positive,inclusion,C15492
+NCI-2017-01254,Castration Levels of Testosterone,inclusion,C129259
+NCI-2017-01254,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2018-00263,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2018-00263,Mismatch Repair Protein Proficient,exclusion,C131458
+NCI-2021-07760,PD-L1 Positive,inclusion,C128554
+NCI-2014-01875,CD70 Positive,inclusion,C132239
+NCI-2012-00880,CD20 Positive,inclusion,C128631
+NCI-2016-00057,CCND1 Positive,inclusion,C128832
+NCI-2016-00057,t(11;14),inclusion,C128641
+NCI-2016-00586,Estrogen Receptor Positive,inclusion,C15492
+NCI-2013-02245,PD-L1 Positive,inclusion,C128554
+NCI-2013-02245,SLC39A6 Positive,inclusion,C141360
+NCI-2013-02245,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2019-00407,Non-synonymous PKLR Gene Mutation,inclusion,C157142
+NCI-2019-00407,PKLR NP_000289.1:p.R479H,exclusion,C158053
+NCI-2018-03517,Non-synonymous PKLR Gene Mutation,inclusion,C157142
+NCI-2014-00328,Unmethylated MGMT Promoter,inclusion,C132892
+NCI-2011-00330,CD20 Positive,inclusion,C128631
+NCI-2019-03380,PD-L1 Positive,inclusion,C128554
+NCI-2014-01968,Castration Levels of Testosterone,inclusion,C129259
+NCI-2014-01968,Prostate-Specific Antigen,inclusion,C17525
+NCI-2014-01968,Testosterone Less than 50 ng/dL,inclusion,C157378
+NCI-2017-01395,DLL3 Positive,inclusion,C140465
+NCI-2010-02035,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2013-01043,BRAF NP_004324.2:p.V600E,inclusion,C98342
+NCI-2013-01043,BRAF V600K Mutation Present,inclusion,C92466
+NCI-2016-00144,Unmethylated MGMT Promoter,inclusion,C132892
+NCI-2016-02050,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2016-00602,CD19 Negative,exclusion,C132245
+NCI-2011-03745,Castration Levels of Testosterone,inclusion,C129259
+NCI-2011-01189,CD20 Positive,inclusion,C128631
+NCI-2010-02343,CCND1 Positive,inclusion,C128832
+NCI-2009-01334,Hypoploidy,inclusion,C128304
+NCI-2009-01334,Loss of Chromosome 17p,inclusion,C36499
+NCI-2009-01334,t(14;16),inclusion,C95146
+NCI-2009-01334,t(4;14),inclusion,C95145
+NCI-2018-00371,ALK Gene Translocation,exclusion,C129703
+NCI-2018-00371,EGFR-TKI Sensitizing Mutation,exclusion,C96861
+NCI-2018-00371,ROS1 Gene Translocation,exclusion,C129704
+NCI-2009-01594,Loss of Chromosome 17p,inclusion,C36499
+NCI-2019-01296,CD40LG Gene Mutation,inclusion,C158665
+NCI-2019-01296,Elevated EBV DNA,inclusion,C158663
+NCI-2019-01296,Epstein-Barr Virus Positive,inclusion,C129454
+NCI-2019-01296,ITGB2 Gene Mutation,inclusion,C158653
+NCI-2019-01296,LYST Gene Mutation,inclusion,C158655
+NCI-2019-01296,PRF1 Gene Mutation,inclusion,C158654
+NCI-2019-01296,RAB27A Gene Mutation,inclusion,C158666
+NCI-2019-01296,SH2D1A Gene Mutation,inclusion,C153505
+NCI-2019-01296,STX11 Gene Mutation,inclusion,C158651
+NCI-2019-01296,STXBP2 Gene Mutation,inclusion,C158660
+NCI-2019-01296,UNC13D Gene Mutation,inclusion,C158659
+NCI-2019-01296,XIAP Gene Mutation,inclusion,C158658
+NCI-2010-02222,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2017-01403,Castration Levels of Testosterone,inclusion,C129259
+NCI-2017-01403,DNA Damage,inclusion,C16507
+NCI-2017-01403,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2020-01824,Blasts More than 10 Percent of Bone Marrow Nucleated Cells,exclusion,C150457
+NCI-2019-03934,TP53 Gene Mutation,inclusion,C118396
+NCI-2013-02377,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2012-01572,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2014-00718,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2015-02047,EZH2 Gene Mutation,inclusion,C97311
+NCI-2015-02047,Loss of BRG1 Protein Expression,inclusion,C129500
+NCI-2015-02047,Loss of INI 1 Protein Expression,inclusion,C121966
+NCI-2015-02047,t(X;18)(p11;q11),inclusion,C36390
+NCI-2016-00389,Estrogen Receptor Positive,inclusion,C15492
+NCI-2016-00389,Progesterone Receptor Positive,inclusion,C15496
+NCI-2010-00041,Estrogen Receptor Negative,inclusion,C15493
+NCI-2010-00041,Progesterone Receptor Negative,inclusion,C15497
+NCI-2010-00041,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2016-01569,Deleterious BRCA1 Gene Mutation,exclusion,C128814
+NCI-2016-01569,Deleterious BRCA2 Gene Mutation,exclusion,C128815
+NCI-2013-00998,Castration Levels of Testosterone,inclusion,C129259
+NCI-2010-02055,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2014-00506,PD-L1 Positive,inclusion,C128554
+NCI-2009-01676,EGFR NP_005219.2:p.K29_N298insG,inclusion,C101140
+NCI-2014-01028,DDIT3 Gene Rearrangement,inclusion,C141403
+NCI-2011-02067,Estrogen Receptor Positive,inclusion,C15492
+NCI-2011-02067,Progesterone Receptor Positive,inclusion,C15496
+NCI-2018-00776,Blasts Under 10 Percent of Peripheral Blood White Cells,inclusion,C41241
+NCI-2015-01478,Castration Levels of Testosterone,inclusion,C129259
+NCI-2015-01478,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2020-03835,CD19 Positive,inclusion,C129255
+NCI-2017-00611,IDH1 Gene Mutation,inclusion,C118389
+NCI-2017-00611,IDH2 Gene Mutation,inclusion,C118390
+NCI-2013-00121,FGFR2 Gene Fusion Positive,inclusion,C153237
+NCI-2017-00111,Castration Levels of Testosterone,inclusion,C129259
+NCI-2011-02795,FLT3 Internal Tandem Duplication Positive,inclusion,C150626
+NCI-2013-01329,NRAS Gene Mutation,inclusion,C41381
+NCI-2015-02272,Philadelphia Chromosome Positive,inclusion,C128843
+NCI-2016-00219,Estrogen Receptor Negative,inclusion,C15493
+NCI-2016-00219,Progesterone Receptor Negative,inclusion,C15497
+NCI-2016-00219,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2016-00449,EGFR Positive,inclusion,C134501
+NCI-2016-00449,KRAS wt Allele,inclusion,C52546
+NCI-2016-00449,NRAS Gene Mutation Negative,inclusion,C148093
+NCI-2022-05324,MCPyV Positive,inclusion,C178524
+NCI-2017-01932,TNFRSF17 Positive,inclusion,C128845
+NCI-2015-01246,Castration Levels of Testosterone,inclusion,C129259
+NCI-2015-01064,TP53 Gene Mutation,inclusion,C118396
+NCI-2014-02154,HLA-A*0201 Positive Cells Present,inclusion,C69178
+NCI-2014-02154,HLA-A*24:02 Positive Cells Present,inclusion,C142110
+NCI-2014-02154,NY-ESO-1 Positive,inclusion,C131557
+NCI-2010-00128,Human Anti-Mouse Antibodies Positive,exclusion,C139787
+NCI-2010-00128,PTPRC Positive,inclusion,C134500
+NCI-2019-03811,CD22 Positive,inclusion,C131066
+NCI-2015-01802,PD-L1 Positive,inclusion,C128554
+NCI-2015-00276,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-02020,H3 K27M Mutation,inclusion,C129310
+NCI-2019-02020,RB1 Positive,inclusion,C128842
+NCI-2012-01726,ENPP3 Positive,inclusion,C146756
+NCI-2013-02191,Castration Levels of Testosterone,inclusion,C129259
+NCI-2013-02191,Estrogen Receptor Negative,inclusion,C15493
+NCI-2013-02191,PIK3CB Gene Amplification,inclusion,C141339
+NCI-2013-02191,PIK3CB Gene Mutation,inclusion,C141340
+NCI-2013-02191,PSA Level Greater than or Equal to Two,inclusion,C137697
+NCI-2013-02191,Progesterone Receptor Negative,inclusion,C15497
+NCI-2014-02375,CD20 Positive,inclusion,C128631
+NCI-2011-01166,ALK Gene Translocation,inclusion,C129703
+NCI-2011-01166,ALK Kinase Overexpression,inclusion,C38656
+NCI-2014-00817,TNFRSF17 Positive,inclusion,C128845
+NCI-2016-01890,Estrogen Receptor Negative,inclusion,C15493
+NCI-2016-01890,Progesterone Receptor Negative,inclusion,C15497
+NCI-2016-01890,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2019-05711,C-Reactive Protein,inclusion,C60651
+NCI-2023-04564,BRAF Gene Mutation Negative,inclusion,C148089
+NCI-2023-04564,EGFR Gene Mutation Negative,inclusion,C148091
+NCI-2023-04564,ERBB2 Gene Mutation Negative,inclusion,C153091
+NCI-2023-04564,MET Fusion Gene Negative,inclusion,C200217
+NCI-2023-04564,NTRK Fusion Gene Negative,inclusion,C200215
+NCI-2023-04564,RET Fusion Gene Negative,inclusion,C200216
+NCI-2023-04564,ROS1 Gene Rearrangement Negative,inclusion,C147054
+NCI-2018-01611,Estrogen Receptor Negative,inclusion,C15493
+NCI-2018-01611,Progesterone Receptor Negative,inclusion,C15497
+NCI-2018-01611,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2017-02069,Minimal Residual Disease Negativity,inclusion,C124428
+NCI-2016-01618,Castration Levels of Testosterone,inclusion,C129259
+NCI-2019-06741,Androgen Receptor Positive,inclusion,C94297
+NCI-2019-06741,Estrogen Receptor Positive,inclusion,C15492
+NCI-2020-07514,FLT3 Internal Tandem Duplication,inclusion,C67494
+NCI-2016-00396,ALK Positive,inclusion,C128831
+NCI-2016-00396,TNFRSF8 Positive,inclusion,C129257
+NCI-2015-00149,Human Immunodeficiency Virus 1 Positive,inclusion,C129253
+NCI-2014-02395,Human Immunodeficiency Virus 1 Positive,inclusion,C129253
+NCI-2019-06979,CD38 Positive,inclusion,C147087
+NCI-2022-07924,PD-L1 Positive,inclusion,C128554
+NCI-2017-00724,Estrogen Receptor Positive,inclusion,C15492
+NCI-2017-00724,Progesterone Receptor Positive,inclusion,C15496
+NCI-2022-02288,High-Frequency Microsatellite Instability,exclusion,C36493
+NCI-2015-00283,Cytomegalovirus Positive,inclusion,C131328
+NCI-2012-01960,Estrogen Receptor Positive,inclusion,C15492
+NCI-2012-01960,Progesterone Receptor Positive,inclusion,C15496
+NCI-2018-00544,Estrogen Receptor Positive,inclusion,C15492
+NCI-2018-00544,Progesterone Receptor Positive,inclusion,C15496
+NCI-2014-00627,CCND1 Gene Amplification,inclusion,C36652
+NCI-2014-00627,CCND2 Gene Amplification,inclusion,C131785
+NCI-2014-00627,CCND3 Gene Amplification,inclusion,C131784
+NCI-2014-00627,CDK4 Gene Amplification,inclusion,C131786
+NCI-2014-00627,FGFR1 Gene Amplification,inclusion,C36650
+NCI-2014-00627,FGFR2 Gene Amplification,inclusion,C36651
+NCI-2014-00627,FGFR3 Gene Amplification,inclusion,C129621
+NCI-2014-00627,MET Positive,inclusion,C131068
+NCI-2014-00627,PIK3CA Gene Mutation,inclusion,C96271
+NCI-2019-07791,Germline BRCA1 Gene Mutation,inclusion,C150629
+NCI-2022-01291,Deleterious BRCA1 Gene Mutation,inclusion,C128814
+NCI-2022-01291,Deleterious BRCA2 Gene Mutation,inclusion,C128815
+NCI-2022-01291,Deleterious BRIP1 Gene Mutation,inclusion,C131774
+NCI-2022-01291,Deleterious RAD51C Gene Mutation,inclusion,C131781
+NCI-2022-01291,Deleterious RAD51D Gene Mutation,inclusion,C131782
+NCI-2023-04889,IgG,inclusion,C568
+NCI-2024-09412,Human Metapneumovirus Virus Positive,inclusion,C211927
+NCI-2024-09412,Parainfluenza Virus Positive,inclusion,C211926
+NCI-2024-09412,Respiratory Syncytial Virus Positive,inclusion,C173858
+NCI-2021-05949,SARS Coronavirus 2 Positive,inclusion,C171647
+NCI-2019-04131,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2019-03336,Cytomegalovirus Positive,inclusion,C131328
+NCI-2013-01949,Cytomegalovirus Positive,inclusion,C131328
+NCI-2011-03828,Blasts Under 5 Percent of Bone Marrow Nucleated Cells,inclusion,C137685
+NCI-2011-03828,Loss of Chromosome 17p,inclusion,C36499
+NCI-2013-02275,FLT3 Internal Tandem Duplication,inclusion,C67494
+NCI-2022-10068,Absolute Neutrophil Count Greater than or Equal to 500/mm3,inclusion,C156006
+NCI-2022-10068,CD19 Positive,inclusion,C129255
+NCI-2024-00505,MUC5AC Positive,inclusion,C203683
+NCI-2020-02612,PSA Failure,inclusion,C93229
+NCI-2019-07068,ALK Gene Translocation,inclusion,C129703
+NCI-2019-07068,EGFR Activating Mutation,inclusion,C92172
+NCI-2019-07068,ROS1 Gene Translocation,inclusion,C129704
+NCI-2020-00210,Estrogen Receptor Positive,inclusion,C15492
+NCI-2020-00210,Progesterone Receptor Positive,inclusion,C15496
+NCI-2013-02342,Estrogen Receptor Positive,inclusion,C15492
+NCI-2019-04694,Cytomegalovirus Positive,inclusion,C131328
+NCI-2013-01380,Estrogen Receptor Positive,inclusion,C15492
+NCI-2017-01331,Estrogen Receptor Positive,inclusion,C15492
+NCI-2017-01331,Progesterone Receptor Positive,inclusion,C15496
+NCI-2020-04602,CHEK2 Gene Mutation,inclusion,C40458
+NCI-2020-04602,Germline BRCA1 Gene Mutation,inclusion,C150629
+NCI-2020-04602,Germline BRCA2 Gene Mutation,inclusion,C150630
+NCI-2020-04602,Germline HOXB13 Gene Mutation,inclusion,C157756
+NCI-2020-04602,MLH1 Gene Mutation,inclusion,C118394
+NCI-2020-04602,MSH2 Gene Mutation,inclusion,C128821
+NCI-2020-04602,MSH6 Gene Mutation,inclusion,C118395
+NCI-2020-04602,PMS2 Gene Mutation,inclusion,C118397
+NCI-2020-04602,TP53 Gene Mutation,inclusion,C118396
+NCI-2017-01549,Castration Levels of Testosterone,inclusion,C129259
+NCI-2017-01549,PSA Level Greater than Twenty,inclusion,C136646
+NCI-2021-12005,CDKN2A Gene Mutation,inclusion,C128817
+NCI-2021-12005,EPCAM Gene Mutation,inclusion,C128820
+NCI-2021-12005,MLH1 Gene Mutation,inclusion,C118394
+NCI-2021-12005,MSH2 Gene Mutation,inclusion,C128821
+NCI-2021-12005,MSH6 Gene Mutation,inclusion,C118395
+NCI-2021-12005,PMS2 Gene Mutation,inclusion,C118397
+NCI-2021-12005,PRSS1 Protein Variant,inclusion,C178535
+NCI-2021-12005,STK11 Gene Mutation,inclusion,C128825
+NCI-2021-12382,HLA-A*0202 Positive Cells Present,inclusion,C147058
+NCI-2021-00369,AKT1 Gene Mutation,inclusion,C98304
+NCI-2021-00369,ATRX Gene Mutation,inclusion,C148041
+NCI-2021-00369,EPCAM Gene Mutation,inclusion,C128820
+NCI-2021-00369,High Tumor Mutation Burden,inclusion,C156025
+NCI-2021-00369,MLH1 Gene Mutation,inclusion,C118394
+NCI-2021-00369,MSH2 Gene Mutation,inclusion,C128821
+NCI-2021-00369,MSH6 Gene Mutation,inclusion,C118395
+NCI-2021-00369,PMS2 Gene Mutation,inclusion,C118397
+NCI-2021-00369,RAD50 Gene Mutation,inclusion,C131793
+NCI-2021-00369,RB1 Gene Mutation,inclusion,C133696
+NCI-2019-08521,Activating NTRK Family Point Mutation,exclusion,C150439
+NCI-2019-08521,NTRK Gene Amplification,exclusion,C183567
+NCI-2019-08521,NTRK1 Fusion Positive,inclusion,C131070
+NCI-2019-08521,NTRK2 Fusion Positive,inclusion,C132235
+NCI-2019-08521,NTRK3 Fusion Positive,inclusion,C132236
+NCI-2020-04699,Castration Levels of Testosterone,inclusion,C129259
+NCI-2020-04699,PSA Level Greater than or Equal to Ten,inclusion,C136534
+NCI-2022-01764,PSA Level Greater than One Hundred,inclusion,C177514
+NCI-2020-02986,SARS Coronavirus 2 Positive,inclusion,C171647
+NCI-2015-01178,Estrogen Receptor Positive,inclusion,C15492
+NCI-2015-01178,Progesterone Receptor Positive,inclusion,C15496
+NCI-2022-08763,Estrogen Receptor Positive,inclusion,C15492
+NCI-2018-01618,Testosterone Greater than or Equal to 50 ng/dL,inclusion,C176972
+NCI-2013-01654,Estrogen Receptor Negative,inclusion,C15493
+NCI-2013-01654,Progesterone Receptor Negative,inclusion,C15497
+NCI-2013-01654,Triple-Negative Breast Cancer Finding,inclusion,C71428
+NCI-2017-02369,Estrogen Receptor Positive,inclusion,C15492
+NCI-2017-02369,Progesterone Receptor Positive,inclusion,C15496
+NCI-2019-08189,SARS Coronavirus 2 Positive,exclusion,C171647
+NCI-2019-06569,Reduced WAS Protein Expression,inclusion,C165246
+NCI-2017-02475,EGFR T790M Mutation Negative,inclusion,C131326
+NCI-2017-01266,Philadelphia Chromosome Negative,inclusion,C128844
+NCI-2017-01266,Philadelphia Chromosome Positive,exclusion,C128843
